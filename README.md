@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Spock935 🖖  
 
-<!--
-**Spock935/Spock935** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst based in Mexico City, coding in Python and SQL.  
+Passionate about data, statistics, and financial analytics. Exploring data-driven solutions to real-world problems.  
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning  
+- Machine Learning with applications in Python  
+- Big Data & Cloud Computing  
+- Data Storytelling and Visualization  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technologies & Tools  
+- 📊 **Data Analysis:** SQL, Power BI, Excel
+- 🐍 **Programming:** Python (Pandas, NumPy, Matplotlib)  
+- 🔍 **Data Cleaning & Transformation**  
+- 🤖 **Machine Learning (Currently Learning)**  
